@@ -1,0 +1,21 @@
+body{
+	background-image:url('WestSwimClub1.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+	
+}
+
+.top-header {
+	width:100%;
+	max-width:100px;
+	font:6em "Lobster", cursive;
+	color: White;
+}
+
+li{
+	font-size:25px;
+	color:black;
+	
+}
+
